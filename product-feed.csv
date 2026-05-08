@@ -1,21 +1,21 @@
-entity.id,entity.name,entity.categoryId,entity.value,entity.inventory,entity.margin,entity.brand
-SKU-001,Zapatillas Running Pro X200,calzado/running,129.99,85,38,Nike
-SKU-002,Remera Deportiva DryFit,indumentaria/camisetas,34.99,200,55,Adidas
-SKU-003,Mochila Trekking 45L,accesorios/mochilas,89.99,40,42,Quechua
-SKU-004,Zapatillas Trail Running XT,calzado/trail,154.99,30,40,Salomon
-SKU-005,Leggings Compresion Mujer,indumentaria/leggings,49.99,150,60,Under Armour
-SKU-006,Bicicleta Montana 29,ciclismo/bicicletas,799.99,12,35,Trek
-SKU-007,Casco Ciclismo Aero,ciclismo/cascos,69.99,55,48,Giro
-SKU-008,Guantes Gym Training,accesorios/guantes,19.99,300,65,Everlast
-SKU-009,Proteina Whey Chocolate 2kg,nutricion/proteinas,59.99,100,50,Optimum Nutrition
-SKU-010,Colchoneta Yoga 6mm,fitness/yoga,29.99,180,58,Gaiam
-SKU-011,Short Running Hombre,indumentaria/shorts,39.99,120,52,Puma
-SKU-012,Auriculares Sport Bluetooth,tecnologia/auriculares,79.99,75,45,JBL
-SKU-013,Rodillera Compresion,accesorios/protecciones,24.99,200,62,McDavid
-SKU-014,Zapatillas Futbol Sala,calzado/futbol,74.99,60,44,Nike
-SKU-015,Camiseta Compresion Manga Larga,indumentaria/camisetas,44.99,90,55,Under Armour
-SKU-016,Botella Termica 750ml,accesorios/hidratacion,34.99,250,60,Hydro Flask
-SKU-017,Banda Elastica Resistencia Media,fitness/bandas,14.99,400,70,TheraBand
-SKU-018,Reloj GPS Running,tecnologia/relojes,249.99,25,38,Garmin
-SKU-019,Campera Cortaviento,indumentaria/camperas,69.99,70,48,The North Face
-SKU-020,Pesas Mancuernas 5kg par,fitness/pesas,39.99,80,50,Body Solid
+entity.id,entity.name,entity.categoryId,entity.value,entity.pageUrl,entity.thumbnailUrl,entity.message
+SKU-001,Zapatillas Running Pro X200,calzado/running,129.99,https://store.example.com/p/sku-001,https://store.example.com/img/sku-001.jpg,Zapatillas running amortiguacion avanzada
+SKU-002,Remera Deportiva DryFit,indumentaria/camisetas,34.99,https://store.example.com/p/sku-002,https://store.example.com/img/sku-002.jpg,Remera tecnica secado rapido
+SKU-003,Mochila Trekking 45L,accesorios/mochilas,89.99,https://store.example.com/p/sku-003,https://store.example.com/img/sku-003.jpg,Mochila trekking 45 litros
+SKU-004,Zapatillas Trail Running XT,calzado/trail,154.99,https://store.example.com/p/sku-004,https://store.example.com/img/sku-004.jpg,Zapatillas para terrenos irregulares
+SKU-005,Leggings Compresion Mujer,indumentaria/leggings,49.99,https://store.example.com/p/sku-005,https://store.example.com/img/sku-005.jpg,Leggings compresion media bolsillo
+SKU-006,Bicicleta Montana 29,ciclismo/bicicletas,799.99,https://store.example.com/p/sku-006,https://store.example.com/img/sku-006.jpg,Bicicleta MTB aluminio 21 velocidades
+SKU-007,Casco Ciclismo Aero,ciclismo/cascos,69.99,https://store.example.com/p/sku-007,https://store.example.com/img/sku-007.jpg,Casco aerodinamico certificado CE
+SKU-008,Guantes Gym Training,accesorios/guantes,19.99,https://store.example.com/p/sku-008,https://store.example.com/img/sku-008.jpg,Guantes entrenamiento cuero sintetico
+SKU-009,Proteina Whey Chocolate 2kg,nutricion/proteinas,59.99,https://store.example.com/p/sku-009,https://store.example.com/img/sku-009.jpg,Proteina suero leche 24g por porcion
+SKU-010,Colchoneta Yoga 6mm,fitness/yoga,29.99,https://store.example.com/p/sku-010,https://store.example.com/img/sku-010.jpg,Colchoneta antideslizante alineacion central
+SKU-011,Short Running Hombre,indumentaria/shorts,39.99,https://store.example.com/p/sku-011,https://store.example.com/img/sku-011.jpg,Short running liner interior bolsillo
+SKU-012,Auriculares Sport Bluetooth,tecnologia/auriculares,79.99,https://store.example.com/p/sku-012,https://store.example.com/img/sku-012.jpg,Auriculares inalambricos IPX5 8hs bateria
+SKU-013,Rodillera Compresion,accesorios/protecciones,24.99,https://store.example.com/p/sku-013,https://store.example.com/img/sku-013.jpg,Rodillera compresion soporte rotuliano
+SKU-014,Zapatillas Futbol Sala,calzado/futbol,74.99,https://store.example.com/p/sku-014,https://store.example.com/img/sku-014.jpg,Zapatillas futbol sala suela goma
+SKU-015,Camiseta Compresion Manga Larga,indumentaria/camisetas,44.99,https://store.example.com/p/sku-015,https://store.example.com/img/sku-015.jpg,Camiseta compresion termica invierno
+SKU-016,Botella Termica 750ml,accesorios/hidratacion,34.99,https://store.example.com/p/sku-016,https://store.example.com/img/sku-016.jpg,Botella acero inoxidable doble pared
+SKU-017,Banda Elastica Resistencia Media,fitness/bandas,14.99,https://store.example.com/p/sku-017,https://store.example.com/img/sku-017.jpg,Pack 3 bandas elasticas latex
+SKU-018,Reloj GPS Running,tecnologia/relojes,249.99,https://store.example.com/p/sku-018,https://store.example.com/img/sku-018.jpg,Reloj GPS monitor cardiaco 20hs bateria
+SKU-019,Campera Cortaviento,indumentaria/camperas,69.99,https://store.example.com/p/sku-019,https://store.example.com/img/sku-019.jpg,Campera cortavientos ultraliviana plegable
+SKU-020,Pesas Mancuernas 5kg par,fitness/pesas,39.99,https://store.example.com/p/sku-020,https://store.example.com/img/sku-020.jpg,Par mancuernas 5kg goma antideslizante
