@@ -1,0 +1,143 @@
+<?xml version="1.0"?> <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0"><channel> <created_at>2026-05-08 10:00</created_at>
+
+<item>
+<g:id><![CDATA[SKU-001]]></g:id>
+<title><![CDATA[Zapatillas Running Pro X200]]></title>
+<description><![CDATA[Zapatillas de running con amortiguacion avanzada y suela antideslizante]]></description>
+<link><![CDATA[https://store.example.com/products/sku-001]]></link>
+<g:image_link>https://store.example.com/img/sku-001.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>129.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[calzado/running]]></g:google_product_category>
+<g:product_type><![CDATA[calzado/running]]></g:product_type>
+<g:brand><![CDATA[Nike]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-002]]></g:id>
+<title><![CDATA[Remera Deportiva DryFit]]></title>
+<description><![CDATA[Remera tecnica de secado rapido disponible en varios colores]]></description>
+<link><![CDATA[https://store.example.com/products/sku-002]]></link>
+<g:image_link>https://store.example.com/img/sku-002.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>34.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[indumentaria/camisetas]]></g:google_product_category>
+<g:product_type><![CDATA[indumentaria/camisetas]]></g:product_type>
+<g:brand><![CDATA[Adidas]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-003]]></g:id>
+<title><![CDATA[Mochila Trekking 45L]]></title>
+<description><![CDATA[Mochila de trekking con capacidad de 45 litros y porta hidratacion]]></description>
+<link><![CDATA[https://store.example.com/products/sku-003]]></link>
+<g:image_link>https://store.example.com/img/sku-003.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>89.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[accesorios/mochilas]]></g:google_product_category>
+<g:product_type><![CDATA[accesorios/mochilas]]></g:product_type>
+<g:brand><![CDATA[Quechua]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-004]]></g:id>
+<title><![CDATA[Zapatillas Trail Running XT]]></title>
+<description><![CDATA[Disenadas para terrenos irregulares con gripper de alta traccion]]></description>
+<link><![CDATA[https://store.example.com/products/sku-004]]></link>
+<g:image_link>https://store.example.com/img/sku-004.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>154.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[calzado/trail]]></g:google_product_category>
+<g:product_type><![CDATA[calzado/trail]]></g:product_type>
+<g:brand><![CDATA[Salomon]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-005]]></g:id>
+<title><![CDATA[Leggings Compresion Mujer]]></title>
+<description><![CDATA[Leggings de compresion media con bolsillo lateral y tejido stretch]]></description>
+<link><![CDATA[https://store.example.com/products/sku-005]]></link>
+<g:image_link>https://store.example.com/img/sku-005.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>49.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[indumentaria/leggings]]></g:google_product_category>
+<g:product_type><![CDATA[indumentaria/leggings]]></g:product_type>
+<g:brand><![CDATA[Under Armour]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-006]]></g:id>
+<title><![CDATA[Bicicleta Montana 29]]></title>
+<description><![CDATA[Bicicleta MTB con cuadro de aluminio 21 velocidades y frenos de disco]]></description>
+<link><![CDATA[https://store.example.com/products/sku-006]]></link>
+<g:image_link>https://store.example.com/img/sku-006.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>799.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[ciclismo/bicicletas]]></g:google_product_category>
+<g:product_type><![CDATA[ciclismo/bicicletas]]></g:product_type>
+<g:brand><![CDATA[Trek]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-007]]></g:id>
+<title><![CDATA[Casco Ciclismo Aero]]></title>
+<description><![CDATA[Casco aerodinamico certificado CE con ventilacion optimizada]]></description>
+<link><![CDATA[https://store.example.com/products/sku-007]]></link>
+<g:image_link>https://store.example.com/img/sku-007.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>69.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[ciclismo/cascos]]></g:google_product_category>
+<g:product_type><![CDATA[ciclismo/cascos]]></g:product_type>
+<g:brand><![CDATA[Giro]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-008]]></g:id>
+<title><![CDATA[Guantes Gym Training]]></title>
+<description><![CDATA[Guantes de entrenamiento con palma de cuero sintetico y velcro]]></description>
+<link><![CDATA[https://store.example.com/products/sku-008]]></link>
+<g:image_link>https://store.example.com/img/sku-008.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>19.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[accesorios/guantes]]></g:google_product_category>
+<g:product_type><![CDATA[accesorios/guantes]]></g:product_type>
+<g:brand><![CDATA[Everlast]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-009]]></g:id>
+<title><![CDATA[Proteina Whey Chocolate 2kg]]></title>
+<description><![CDATA[Proteina de suero de leche con 24g de proteina por porcion sabor chocolate]]></description>
+<link><![CDATA[https://store.example.com/products/sku-009]]></link>
+<g:image_link>https://store.example.com/img/sku-009.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>59.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[nutricion/proteinas]]></g:google_product_category>
+<g:product_type><![CDATA[nutricion/proteinas]]></g:product_type>
+<g:brand><![CDATA[Optimum Nutrition]]></g:brand>
+</item>
+
+<item>
+<g:id><![CDATA[SKU-010]]></g:id>
+<title><![CDATA[Colchoneta Yoga 6mm]]></title>
+<description><![CDATA[Colchoneta antideslizante de 6mm con alineacion central impresa]]></description>
+<link><![CDATA[https://store.example.com/products/sku-010]]></link>
+<g:image_link>https://store.example.com/img/sku-010.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>29.99 USD</g:price>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[fitness/yoga]]></g:google_product_category>
+<g:product_type><![CDATA[fitness/yoga]]></g:product_type>
+<g:brand><![CDATA[Gaiam]]></g:brand>
+</item>
+
+</channel></rss>
